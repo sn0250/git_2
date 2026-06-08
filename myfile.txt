@@ -1,2 +1,3 @@
 Git Command
+[1] Resister change to index
 
