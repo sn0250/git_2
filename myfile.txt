@@ -1,4 +1,5 @@
 Git Command
 [1] Resister change to index
 [2] Record status of index
+[3] Get contexts of remote repository
 
